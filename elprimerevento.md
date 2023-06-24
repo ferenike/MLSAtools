@@ -1,17 +1,15 @@
 # El primer evento :eyes:
 
-## Crear el branding
-### Flyers de Speakers
+En algún momento, pasada la primera charla, tendrrás ganas de juntar a grandes personas de un campo en específico para que puedan impartir un workshop o una pequeña charla. Aquí algunos consejos de cómo hacerlo.
 
 
 ## Invitar Speakers
-Para realizar esto, te compartiré una fórmula que [Jonathan Castillo]() me compartió:
+Esta es la parte más importante y tal vez por la quedeberías seguir.Y para realizar esto, te compartiré una fórmula que [Jonathan Castillo]() me compartió:
 
 Saludo + Presentación personal y de la comunidad + invitación (¿Qué?) + descripción (¿por qué?) + call to action
 
 Veamos qué implica cada parte.
 ### Saludo
-
 Recuerda que buscas persuadir a la persona en cuestión para que acepte. Trata ser cordial y amable.
 ### Presentación personal y de la comunidad
 Prséntate bajo las credenciales que te convengan más (Microsoft Learn Student Ambassador) o  de la comunidad a la que pertenezcas y con la que estés realizando tu evento.
@@ -67,3 +65,10 @@ Y puedes obtenerlo [aquí](https://education.github.com/pack).
 + Envía [este](https://support.streamyard.com/hc/es-419/articles/360043291612-Instrucciones-para-invitados) tutorial a tus invitados.
 
 + Accede a la documentación completa [aquí](https://support.streamyard.com/hc/es-419). 
+
+
+## Crear el branding
+### Flyers de Speakers
+
++ [Canva](https://www.canva.com/es_mx/free/)
++ [Figma](https://www.figma.com/education/)

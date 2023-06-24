@@ -1,7 +1,7 @@
 # La primera charla :raised_hands:
 
 La 
-<img src="images\Imagen5.png" width="10%"> primera <img src="images\Imagen5.png" width="20%"> charla<img src="images\Imagen5.png" width="30%">
+<img src="images\Imagen5.png" width="5%"> primera <img src="images\Imagen5.png" width="10%"> charla<img src="images\Imagen5.png" width="15%">
 
 Imagina ese momento mágico cuando subes al escenario, la energía palpable en el aire y los ojos ansiosos que esperan ser cautivados por tus palabras. Y de tan solo ver a tu audiencia, ¡ahora no recuerdas qué ibas a decir!
 
