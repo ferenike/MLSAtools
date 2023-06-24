@@ -6,6 +6,8 @@ Aquí encontrarás un universo de recursos que te permitirán brillar aún más:
 
 
 
-[La primera charla]()
+[La primera charla](MLSAtools/laprimeracharla.md)
+
 [El primer evento]()
+
 [La comunidad]()
