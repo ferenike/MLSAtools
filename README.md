@@ -6,6 +6,8 @@ Aquí encontrarás un universo de recursos que te permitirán brillar aún más:
 
 ## Contenido
 [La primera charla](laprimeracharla.md)
+
 [El primer evento](elprimerevento.md)
+
 [La comunidad](lacomunidad.md)
 
