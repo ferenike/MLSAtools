@@ -68,7 +68,40 @@ Y puedes obtenerlo [aquí](https://education.github.com/pack).
 
 
 ## Crear el branding
+
+El branding para un evento significa crear una identidad especial y única para ese evento. No se trata solo de un logotipo, sino de transmitir lo que hace que el evento sea especial y conectar con las personas emocionalmente.
+
+El objetivo del branding es destacar el evento entre otros similares, transmitir sus valores y generar expectativas positivas. Para lograrlo, se utilizan herramientas digitales como redes sociales, correos electrónicos y aplicaciones móviles. 
+
+El branding de un evento puede enfocarse en temas tecnológicos como inteligencia artificial, blockchain, ciberseguridad, big data o internet de las cosas. Estos temas reflejan la innovación y la modernidad del evento.
+
+La paleta de colores y las ilustraciones son importantes en el branding de un evento. Los colores que elijamos transmiten emociones y crean una atmósfera específica. Las ilustraciones y gráficos personalizados ayudan a crear una imagen única para el evento y se utilizan en materiales promocionales como carteles y publicaciones en redes sociales. Es importante que los colores y las ilustraciones sean consistentes en todos los aspectos visuales del evento para que la gente los identifique fácilmente.
+
 ### Flyers de Speakers
 
+Una de las partes más importantes del branding tal vez sean los flyers de speakers. Ya tienes una temática definida, una tecnología y hasta alguien importante en campo para hablar de esto. ¿Qué sigue? 
+Darle difusión a través de redes sociales, grupos de whats o correo. Pra recopilar estos datos puedes optar por usar forms o herramientas más avanzadas como [sessionize](https://sessionize.com/).
+
+Tomemos de ejemplo el trabajo de [DEV.F](https://www.instagram.com/p/CunW5fZv3Uc/)
+
+![Alt text](images/ejemplo.png)
+
+1. Podemos encontrar el tipo de charla pero facilmente también podría ser sustituido por el nombre general del evento.
+2. El nombre de la charla, generalmente lo define quien hablará. 
+3. Agrega el nombre del speaker, mucho mejor si también puedes agregar sus títulos.
+4. Tal vez su nombre no sea suficiente, agrega una foto del speaker también.
+5. No olvides agregar la fecha y hora de la charla, mejor si agregas zonas horarias.
+6. Y finalmente, pero no menos importante, agrega logos. Del evento, del programa e incluso, si lo hay, de patrocinadores. 
+
+![Alt text](images/ejemplo2.png)
+
+Si damos un zoom out a la publicación de ejemplo,  podrmos ver aún hay cosas que podemos agregar para difundir nuestro evento. Por ejemplo, en la caja de descripción podemos poner:
+1. Un copywriting alineado a tu evento y específicamente a la charla en cuestión
+2. Agrega un link de registro, trata de usar una versión corta, aunque también en el flyer podrías agregar un código QR. 
+3. Para que otras personas fuera del círculo puedan dar con tu charla, podrías también agregar hashtags relacionados.
+
+Aquí, algunas herramientas de diseño que podrían ayudarte:
+
 + [Canva](https://www.canva.com/es_mx/free/)
-+ [Figma](https://www.figma.com/education/)
+
++ [Figma](https://www.figma.com/education/) (Está disponible una opción gratuita para estudiantes usando correo institucional)
