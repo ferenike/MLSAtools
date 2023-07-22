@@ -23,5 +23,12 @@ A continuación puedes encontrar una lista de comunidades que te pueden ayudar a
 
 ## ¿Cómo hago contruyo una comunidad?
 
+Usar o hacer tecnología por que sí, no basta. Seguramente, a tu alrededor con amigas, amigos, facultad, universidad, etc. hay luchas o puntos de dolor que se comparten. Puede ser relacionado a la educación, a algo social, económico, o en cualquier aspecto de la vida donde la tecnología pueda incidir. a partir de esto, piensa...
 
+- ¿Qué luchas compartes con otras personas a tu alrededor?
+- ¿Cómo se relaciona la tecnología con esas luchas?
+- ¿En qué parte sí puedes tener un impacto?
+- ¿Cómo lograrías ese impacto?
+- ¿Cuál sería tu misión tomando en cuenta todo lo anterior?
+- ¿Tienes un cronograma de acividades o tareas?
 
